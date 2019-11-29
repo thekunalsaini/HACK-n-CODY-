@@ -1,7 +1,7 @@
 //ERFINDER CODE
 #include <SoftwareSerial.h>
 
-SoftwareSerial mySerial(9, 10); // RX, TX
+SoftwareSerial mySerial(9, 10); // RX, TX -- rec,trans
 
 void setup()
 {
